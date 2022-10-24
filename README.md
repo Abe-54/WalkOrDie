@@ -2,7 +2,7 @@
 This is a short platformer, where the player is a bomb and they have to balance between moving and remaining still. The game was built within the [Unity](https://unity.com/) game engine for the 2022 Global Game Jam.
 
 ## Motivation
-This is the source code for my 2022 Global Game Jam submission.
+I decided to form a small team to see what I can create when I work with others in under 48 hours
  
 ## Screenshots
 <p float="left">
